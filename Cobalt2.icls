@@ -2,7 +2,6 @@
   <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="CONSOLE_FONT_NAME" value="Monaco" />
-  <option name="CONSOLE_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Meslo LG M for Powerline" />
   <colors>
     <option name="CARET_COLOR" value="ffc600" />
@@ -373,6 +372,12 @@
     <option name="Clojure Strings">
       <value>
         <option name="FOREGROUND" value="e6db74" />
+      </value>
+    </option>
+    <option name="Comment">
+      <value>
+        <option name="FOREGROUND" value="88ff" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
@@ -768,6 +773,12 @@
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fda5ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="Identifier">
+      <value>
+        <option name="FOREGROUND" value="ffc600" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -1571,12 +1582,12 @@
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="f92672" />
+        <option name="FOREGROUND" value="ffc600" />
       </value>
     </option>
     <option name="YAML_SCALAR_LIST">
       <value>
-        <option name="FOREGROUND" value="e6db74" />
+        <option name="FOREGROUND" value="3ad900" />
       </value>
     </option>
     <option name="YAML_SCALAR_STRING">
@@ -1586,17 +1597,17 @@
     </option>
     <option name="YAML_SCALAR_VALUE">
       <value>
-        <option name="FOREGROUND" value="e6db74" />
+        <option name="FOREGROUND" value="fb94ff" />
       </value>
     </option>
     <option name="YAML_SIGN">
       <value>
-        <option name="FOREGROUND" value="f92672" />
+        <option name="FOREGROUND" value="ffc600" />
       </value>
     </option>
     <option name="YAML_TEXT">
       <value>
-        <option name="FOREGROUND" value="e6db74" />
+        <option name="FOREGROUND" value="ff80e1" />
       </value>
     </option>
   </attributes>
