@@ -1,5 +1,5 @@
-# Cobalt 2 Theme for PhpStorm
-⚠️ **Still in WIP.**
+# Cobalt Theme for PhpStorm
+⚠️ **This repo is WIP.**
 
 This theme is inspired by [WesBos'](http://wesbos.com) [Cobalt 2 theme](https://github.com/wesbos/cobalt2) for SublimeText. May work for other JetBrains' products, such as IntelliJ but, it's not been tested.
 
@@ -20,7 +20,9 @@ git clone git@github.com:lucien144/cobalt2-phpstorm.git .
 ```
 
 - The `colors` folder should be empty before cloning otherwise you get git error.
-- The path may differ based on your PhpStorm version.
+- If there's no `colors` folder, you need to create it by `mkdir colors`
+- The path may differ based on your PhpStorm version or JetBrains software
+	- IntelliJ IDEA may be located at `~/Library/Preferences/IntelliJIdea2016.2/`
 
 
 ## Screenshot
