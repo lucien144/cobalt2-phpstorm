@@ -1,6 +1,14 @@
 # Cobalt Theme for PhpStorm
 ⚠️ **This repo is WIP.**
 
+---
+<p align="center">
+🔥 Looking for <strong>cool t-shirts for web developers</strong>?<br>
+Check out my <a href="https://devnull.store?utm_source=github&utm_medium=link&utm_campaign=lemp" target="_blank">Devnull Clothing</a>.
+</p>
+
+---
+
 ![screenshot](http://144.wtf/vtfN+)
 
 This theme is inspired by [WesBos'](http://wesbos.com) [Cobalt 2 theme](https://github.com/wesbos/cobalt2) for SublimeText. May work for other JetBrains' products, such as IntelliJ but, it's not been tested.
